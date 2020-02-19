@@ -1,1 +1,1 @@
-# ECEN5773_Developing-Industrial-Internet-Of-Things
+# ECEN5053_Developing-Industrial-Internet-Of-Things
